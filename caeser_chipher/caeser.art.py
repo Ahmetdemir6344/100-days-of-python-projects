@@ -39,3 +39,5 @@ while should_continue:
     if restart == 'no':
         should_continue = False
         print("Goodbye")
+#guzel bir algoritma baslangic icin
+
